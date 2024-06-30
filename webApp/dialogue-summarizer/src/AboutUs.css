@@ -1,0 +1,31 @@
+.page-content {
+    text-align: center;
+    padding: 20px;
+    background-color: #d2dee8; /* Bluish background color */
+}
+
+.avatar-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.avatar-box {
+    margin: 0 20px;
+    text-align: center;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #0073e6; /* Optional border for better visibility */
+}
+
+.common-text {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #00509e;
+}

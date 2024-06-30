@@ -1,0 +1,49 @@
+.datasets-page {
+    padding: 20px;
+    background-color: #f0f8ff; /* Light bluish background color */
+}
+
+.dataset-card {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.dataset-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #007acc; /* Bluish color for headings */
+}
+
+.dataset-card p {
+    margin: 10px 0;
+}
+
+.dataset-card p.dataset-heading {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+    color: #007acc; /* Bluish color for questions and bold parts */
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid #dddddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}

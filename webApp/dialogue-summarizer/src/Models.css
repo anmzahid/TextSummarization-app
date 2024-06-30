@@ -1,0 +1,30 @@
+.models-page {
+    padding: 20px;
+    background-color: #f0f8ff; /* Light bluish background color */
+}
+
+.model-card {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.model-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #007acc; /* Bluish color for headings */
+}
+
+.model-card p {
+    margin: 10px 0;
+}
+
+.model-card p.model-heading {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+    color: #007acc; /* Bluish color for questions and bold parts */
+    font-weight: bold;
+}
